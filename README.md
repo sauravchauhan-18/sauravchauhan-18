@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Saurav Chauhan 👋
 
-<!--
-**sauravchauhan-18/sauravchauhan-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a B.Tech Computer Science Engineering student at Chitkara University.
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 B.Tech CSE | Chitkara University
+- 💻 Interested in Web and Backend Development
+- 📚 Currently learning DSA and System Design
+- 🛠️ Building projects with Python, Flask, SQLite and JavaScript
+
+### Technical Skills
+
+- Languages: Python, C, SQL
+- Web: HTML, CSS, JavaScript
+- Backend: Flask
+- Database: SQLite
+- Core: DSA, DBMS, OOP, Computer Networks
+
+### Projects
+
+- [Expense Tracker & Analytics Dashboard](https://github.com/sauravchauhan-18/expense-tracker)
+- [Code Radar Solutions](https://github.com/sauravchauhan-18/Code-Radar-Solutions)
+
+### Connect
+
+- LinkedIn: Add your LinkedIn profile here
