@@ -24,4 +24,4 @@ I'm a B.Tech Computer Science Engineering student at Chitkara University.
 
 ### Connect
 
-- LinkedIn: Add your LinkedIn profile here
+- LinkedIn: https://www.linkedin.com/in/saurav-chauhan-494122332/
